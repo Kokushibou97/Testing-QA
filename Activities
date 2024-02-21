@@ -1,0 +1,19 @@
+Requirements Analysis: Understanding and analyzing the requirements provided by stakeholders to ensure that they are clear, complete, and feasible.
+
+Test Planning: Developing a comprehensive test plan that outlines the testing approach, objectives, resources, and schedule for the testing process.
+
+Test Case Development: Creating test cases based on requirements and specifications to validate the functionality of the software under different scenarios.
+
+Test Execution: Running the test cases to verify the behavior of the software and to uncover any defects or inconsistencies.
+
+Defect Reporting and Tracking: Documenting any defects discovered during testing and tracking them to resolution. This involves providing detailed information about the defect, such as steps to reproduce it and its severity.
+
+Regression Testing: Re-running previously executed test cases to ensure that new code changes have not introduced any unintended side effects or regressions.
+
+Performance Testing: Evaluating the performance of the software under different conditions, such as varying loads or network speeds, to ensure optimal performance.
+
+Security Testing: Assessing the security of the software to identify vulnerabilities and ensure that sensitive data is protected against unauthorized access or manipulation.
+
+Usability Testing: Testing the user interface and overall user experience to ensure that the software is intuitive and easy to use.
+
+Compatibility Testing: Verifying that the software functions correctly across different devices, operating systems, browsers, and network environments.
