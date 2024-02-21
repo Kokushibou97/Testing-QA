@@ -1,1 +1,22 @@
 As a test user, the thinking way should be client-oriented. Or in other words, functionalities that the client would/might/should put to use. 
+Study the target (client).
+
+Study Client Requirements: Dive deep into the requirements provided by the client or stakeholders. Understand the purpose of the software, the intended audience, and the specific functionalities that are important to them.
+
+User Personas: Create user personas or profiles representing different types of clients or end-users. Consider their demographics, preferences, goals, challenges, and typical usage scenarios. This helps in tailoring test scenarios to match real-world user behavior.
+
+Client Feedback and Input: Solicit feedback and input directly from the client or end-users throughout the testing process. Understand their priorities, pain points, and desired features. Incorporate their feedback into the test scenarios to ensure they address real user needs.
+
+User Stories: Use user stories or use cases to identify the tasks and workflows that clients would typically perform using the software. Translate these user stories into test scenarios that validate the functionality and usability of the software from the client's perspective.
+
+Client-Specific Workflows: Identify and prioritize the key workflows or processes that are critical for the client's business operations. Design test scenarios that cover these workflows comprehensively, ensuring that the software meets the client's requirements and expectations.
+
+Edge Cases and Scenarios: Anticipate edge cases, exceptions, and error scenarios that might arise during real-world usage. Test the software under various conditions and scenarios to ensure its robustness and reliability in different client environments.
+
+Usability Testing: Pay close attention to the usability and user experience aspects of the software. Test the interface, navigation, and interaction flows to ensure they are intuitive and user-friendly for the client.
+
+Performance and Scalability: Consider the client's expected usage patterns and workload. Test the performance, responsiveness, and scalability of the software to ensure it can handle the anticipated load and meet the client's performance requirements.
+
+Security and Compliance: Understand the client's security and compliance requirements, especially if the software deals with sensitive data or regulatory constraints. Test the software for security vulnerabilities, data privacy issues, and compliance with relevant standards.
+
+Continuous Feedback Loop: Maintain an open and continuous feedback loop with the client throughout the testing process. Share test results, observations, and insights to ensure alignment with their expectations and to address any issues or concerns proactively.
