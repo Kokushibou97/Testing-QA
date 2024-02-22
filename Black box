@@ -1,0 +1,55 @@
+Or behavioral testing, is where you provide input and wait for the output, however you don't know the internat structures of the system. 
+Also, there's the term of grey-box testing, where you have partial access to the system. For example: Data bases testing or aba testing.
+
+Black box testing is mostley applied to system testing. 
+In black box-testing it is not a big issue to not have a knoweldge about programming. 
+Due to only be a behavioral testing, the output is not completly important due to it being the developer responsability.
+
+Black-box techniques:
+ 1.Equivalance partitioning.
+ 2.Boundary value analysis.
+ 3.Decision table testing.
+ 4.State transtion testing.
+ 5.Pairwise testing.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+1.Equivalance partitioning:  This technique divides the input domain of a program into classes of data from which test cases can be derived. 
+The idea is to reduce the number of test cases by selecting one input from each partition. 
+If one test case in a partition reveals a defect, likely, that other test cases in the same partition will also reveal the same defect.
+Example: anything that can be divided by partitions: grades, hours, scores, apps that include age restrictions..etc. 
+How to know partitions: intuitive, or requirements or it could be asked (BI analyst or product owner)
+in this type of testing an input or output of a range of values that only one value in the range is used as a test case.
+
+
+
+
+
+2.Boundary value analysis: Extention of the previous one; BVA is a software testing technique in which test cases are designed based on the boundaries of input domains. 
+The rationale behind this technique is that bugs often lurk at the boundaries of input ranges. 
+Test cases are created using boundary values, such as the minimum, maximum, and just inside/outside the boundaries.
+For complex projects. 
+Test boundary conditions on, below, and above the edge of input and output equivalence partitions.
+Examples: Fines, grades, age (months and days)
+
+
+
+ 3.Decision table testing: This technique is used when the behavior of a system depends on the combination of different conditions. 
+A decision table is created, which represents all possible combinations of conditions and their corresponding actions or outcomes. 
+Test cases are derived from this table to ensure that all possible combinations are covered.
+examples: Conditions (in order to, there must be....). So based on certain conditions, there is an output (resulting from the conditions). Discounts, gifts, 
+yes or no (true or false).
+2^n
+
+
+
+ 4.State transtion testing: State transition testing is a technique used to test systems that can be in different states and transition from one state to another based on certain conditions. 
+Test cases are designed to ensure that all valid state transitions are tested, as well as invalid transitions (i.e., transitions that should not occur).
+Go all through stats possible.
+
+
+ 5.Pairwise testing: Pairwise testing, also known as all-pairs testing, is a combinatorial testing technique where test cases are designed to cover all possible pairs of input parameters. 
+This technique is based on the observation that most defects are caused by interactions between pairs of parameters rather than individual parameters.
+spcific cases: Study combinations between values. each pair value, should be able to be paired with another value.
+Study case: udemy for example.
+
