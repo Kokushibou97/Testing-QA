@@ -1,0 +1,37 @@
+What is a bug/defect report? it is a document of the occurance, nature, and statues of a defect. 
+A defect/bug/fault is an imperfection of deficiency in a work product, where it does not meet its  requirements/specifications.
+how to solve such issue?By reporting.
+
+So:
+1.Bug report title: 
+          section -> Description
+          Register -> "what error there is"
+2.Steps to reproduce:
+                     Have to be detailed (list and decription).
+3.Actual results: What really happened.
+4.Test enviroment:
+                Software
+                hardware
+                network
+5.Screenshot or a video (as detailed as possible).
+6.Bug priority:
+               6.1:Critical
+               6.2:High
+               6.3:Medium
+               6.4:Low
+
+
+The portrait mode is the default mode that is used in mobile device, On the other hand, landscape mode is the default mode if you are using a tablet.
+Overall, when watching video content on a video site, mobile users hold their devices in portrait orientation. 
+For smartphone users, 82.5 percent of users hold their phone in portrait orientation. 
+For tablet users, the average portrait use was 55.6 percent. Also, there is a direct relationship with the size of device and landscape orientation. 
+For example, for devices with displays of 11 diagonal inches or more, 93.9 percent watch videos in landscape orientation. 
+
+Types of defects:
+                 1.Functional: a functionality isn't working.
+                  2. UI/Visual: User experience 
+                    3. content: A phrase is repited for example.
+                       4. preformance: lazy loading
+                          5. Not a defect, but a report is written: suggestion
+
+In contrast, viewers with 8 to 9 diagonal display inches watched in portrait orientation 57.5 percent of the time.
