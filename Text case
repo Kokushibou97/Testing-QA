@@ -1,0 +1,16 @@
+What is it? 
+a set of preconditions, inputs, actions (where applicables), expected results and postconditions, developed based on a test conditions.
+
+Firts, we have to give the test case a title.
+Second, precontion.
+Third, List and describe test steps.
+Fourth, expected results (colaboration with BI or/and data analyst).
+Five, test scenario.
+Six, test envioment (where? mobile, tablet?, only web?, game).
+                     We mean 3 points: 1) software 2)hardware 3)network
+seven, Actual result.
+eight, status. 
+           1)new, (ready to test). 2)pass    3)fail    4)blocked/skipped
+
+
+what is a test suite? it's a condition of test cases defining the scope of testing for a given execution requirement
