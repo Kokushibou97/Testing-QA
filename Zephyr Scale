@@ -11,3 +11,10 @@ Integration: it integrates with various software development and project managem
 Reporting and Analytics: The platform provides comprehensive reporting and analytics capabilities, enabling teams to track testing progress, identify trends, as well as
 and make data-driven decisions.
 Customization: Zephyr Scale offers customization options.
+
+In Zepher scale we edit our test cases in test cycles.
+Also, we have the option where we can make reports; The software provides reports such as Test exceution burn up and burn down,
+along with text execution completion over time.
+Also, evrything in Z-scale is configurable.
+the default priority label is normal.
+In Zephyr Scale: of the available Test Case Statuses: Draft, approved deprecated.
