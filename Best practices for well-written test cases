@@ -1,0 +1,7 @@
+You can use the tips in this section with the list above to create an efficient but thorough workflow. Let's start with two quick tips:
+
+Make test cases reusable and maintainable wherever possible. Your needs will vary depending on the software, application, or specific features you're testing. However, you can save time and energy by consciously creating test cases that are reusable and easy to maintain.
+
+Create test cases with the end user's perspective in mind. Remember throughout the test case writing process that you're trying to step into the user's place. Aligning your exploratory testing methods with the user's perspective will help you create efficient and relevant software application test cases.
+
+Consider creating a reusable 
