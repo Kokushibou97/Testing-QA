@@ -1,0 +1,21 @@
+Test cases can be categorized based on the purpose they serve in testing. As a quality assurance professional, knowing the difference between them helps focus your efforts and choose the right test format. 
+
+Functionality test cases: These are the most basic and obvious test cases to write. They ensure that each feature of your system works correctly. 
+
+Performance test case: This test ensures that the system runs fast enough. It makes sure that all system requirements work as expected regarding speed, scalability, or stability.  
+
+Unit test cases: Software developers usually write unit tests for their code to check individual units, for example, modules, procedures, or functions, to determine if they work as expected. 
+
+User interface (UI) test cases: It’s important to remember that the user interface is part of the overall system and not just a shell where functionality appears. UI test cases check that each UI element works correctly, displays, and is easy to use. 
+
+Security test cases: Security test cases help ensure that a product or system functions properly under all conditions, including when malicious users attempt to gain unauthorized access or damage the system. These test cases safeguard the security, privacy, and confidentiality of data.
+
+Integration test cases: These ensure that the application components work together as expected. These test cases check whether modules or components integrate seamlessly to form a complete product.
+
+Database test cases: These test cases ensure that the database meets its functional and non-functional requirements. They make sure database management systems (DBMS) support all business requirements.
+
+Usability test cases: Usability test cases help check if users can use the application successfully. These determine whether users can easily use the system without difficulty or confusion. They also verify if users can navigate the system using common procedures and functions.
+
+User acceptance test cases: User acceptance test cases verify that an application satisfies its business requirements before users accept it. These determine whether users accept or reject the output produced by a particular system before release to the live environment.
+
+Regression testing: Regression test cases verify that changes made during development don’t cause any existing functionality to stop working. Regression testing happens after changes have been made to existing code to test that all existing or legacy functionality continues to work as expected after making the changes.
