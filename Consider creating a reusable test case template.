@@ -1,0 +1,20 @@
+A test case template provides a flexible but basic structure that you can customize on an as-needed basis. It can also serve as a checklist to ensure all essential elements have been included. Many testers use spreadsheets with one test per row and the test elements in columns. Here are a few elements you can add to your test case template:
+
+Test Case ID
+
+Test Case Description
+
+Pre-Conditions
+
+Test Steps
+
+Test Data
+
+Expected Result
+
+Post Conditions
+
+Actual Result
+
+Status
+
