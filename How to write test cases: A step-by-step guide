@@ -1,0 +1,21 @@
+Test cases are the blueprints that testers will follow, so they must be clear, thorough, and accurate. Below, we've outlined 10 steps you can take whether you're writing new test cases or revisiting and evaluating existing test cases.
+
+Define the area you want to cover from the test scenario.
+
+Ensure the test case is easy for testers to understand and execute.
+
+Understand and apply relevant test designs.
+
+Use a unique test case ID.
+
+Use the requirements traceability matrix in testing for visibility.
+
+Include a clear description in each test.
+
+Add proper preconditions and postconditions.
+
+Specify the exact expected result. 
+
+Utilize suitable testing techniques. 
+
+Get your test plan peer-reviewed before moving forward.
