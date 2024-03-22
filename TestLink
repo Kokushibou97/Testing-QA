@@ -1,3 +1,32 @@
 TestLink is not supported anymore. 
 Testlink is a test management tool.
 Which of the following cannot be done using Testlink? Tracking defects.
+Which of the following is not one of the enhanced features that can be enabled for any new created project?Enable test
+reports
+
+You can create a test plan from Test Plan management.
+In Testlink, builds are defined within a Test plan.
+Which of the following is not a build attribute? Number
+Test suites can be created from Test Specification.
+Test suites are contained inside the project folder.
+..................................................
+Test cases should be added inside test suite from the "Test case Operations" options.
+Obsolete status for the test case means that the test case will not be used again.
+Which of the following is not a test case status? Executed.
+For each step in the test case you should enter Step action and Expected result.
+The options to export/import a test suite can be found in Test Suite operation.
+Test cases should be assigned to a test plan to be Executed.
+In order to assign a test case to a test plan, you have to choose add/remove test cases.
+Keywords are used to identify groups of test cases
+To create keywords, you have to choose keyword management
+Requirements can be created from Requeriment specification
+Which of the following is not a type of requirement specifications? operational requeriment specification
+
+The “Coverage” section inside the requirement specification includes Assigned test cases
+To create a platform, you should choose platform management
+To create a milestone, you should choose Milestone overview
+Which of the following options allows you to view the test results in excel sheet? test results flat
+Which of the following results view is shown in Charts? results by keyword
+Which of the following sections can be included in the test plan report? test case keywords
+
+
