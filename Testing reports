@@ -1,0 +1,19 @@
+In testing reports we have the testing progress reports and the test summary reports.
+In case of feedback for example, the defect reports are the most ideal to inform about the overall quality of our product/service.So, we need a document that summerizes every detail.
+
+Types of test reports:
+                     1. Progress test report: A test type that is produced at regular intervals about the progress of test activities against a baseline, risks, and alternative
+                                              requering a decision, Other names: test status report. Ex: each week we give a feedback via report.
+                    2. Summary test report: This type is produced at complition milestones that provides an evaluation of the corresponding test items against exit criteria.
+                                            ex: unite testing. if we finish we produce a summary report.
+
+Testers have a default template.:
+                                Title -> steps -> testing results -> actual results.
+                                Expected results -> actual results -> severity ->priority -> a screeshot or a video.
+
+However, in the testing report there is no unifide template (it depends on the stakeholders and the audiance). 
+In case of doubt, ask the audiance (what are the importanturgent information that they would like to know). Essencial information in the most easy/ consuming less time report.
+
+ best work product to be given to the client as feedback on the quality of the product? The progress report.
+
+If we are using exploratory testing, we will not write test cases in the test summary report.
