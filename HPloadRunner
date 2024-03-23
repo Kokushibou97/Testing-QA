@@ -1,0 +1,7 @@
+the difference between JMeter and HP LoadRunner? Jmeter is an open source tool that has a limited protocol support, while HP LoadRunner is not open source that supports more protocols.
+not one of the components of HP LoadRunner? Sampler.
+
+Visual user generator? it generates virtual users as its name says (file -> new script)
+Scripts in Vugen are written in C language.
+the actions in the Vugen scripts? vuser_init , Action, and vuser_end.
+LoadRunner Controller is used to control the virtual users and record the test results.
