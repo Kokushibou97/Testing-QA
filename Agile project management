@@ -1,0 +1,54 @@
+The objective of using agile is to divide a big/medium project into small attainable tasks, which could be worked on carefully.
+
+Agile 4 values:
+              1. individuals and interactions over processes and tools.
+              2. Working software over comprehensive documents.
+              3. Customer collaboration over contract negotiation.
+              4. Responding to change over following a plan.
+
+All of them are important, however, the first ones are more efficient for better project development, to give a better product/service.
+
+Above those values, we have 12 principals.
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+2. Deliver working software frequently, at intervals of between a few weeks to a few months, with a preference for a shorter timescale.
+3. Working software is a primary measure of progress.
+4. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+5. Continous attention to technical excellence and good design enhances agility.
+6. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+7. Simplicity_the art of maximizing the amount of work not done essential.
+8. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+9. The best architectures, requirements, and designs emerge from self-organizing teams.
+10. Business people and developers must work together daily through the project.
+11. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+
+Waterfall vs agile: In waterfall projects we are more restricted (requirements, resources, time), compared to agile (what are fixed mostly are the requirements).
+
+The user story (requirements): User stories are written to capture requirements from the perspective of developers, testers, and business representatives (big three)
+The user stories must address both functional and non-functional characteristics.
+
+How to test the user story? Invest technique.
+                            1. Independent 
+                            2. Negotiable.
+                            3. Valuable.
+                            4. Estimable.
+                            5. Simple/small.
+                            6. Testable.
+
+SCRUM: One of the most used/important Agile methodologies.
+
+Scrum practices: Product Backlog.
+                 Sprint Backlog.
+                 Definition of done.
+                 Timeboxing.
+                 Retrospective.
+
+An important way to measure progress? Burnt-down chart.
+What if we need to measure through another iteration? Velocity chart.
+
+
+Third approach? KANBAN. To optimize the flow of work through a value-added chain.
+                        Kanban board -> Work-in-progress limit -> Lead Time.
+
+So what is the difference between SCRUM and KANBAN? Synchronization is optional in Kanban, but mandatory in Scrum.
