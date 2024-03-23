@@ -1,0 +1,54 @@
+The test process is the same for mobile. However, there are some differences from webs to mobiles.
+A mobile app is a software type made to be used in mobiles. Web mobile app (version)
+Mobile apps types:
+                 1. WEB. (Browser web-app) problem? comptability.
+                 2. HYBRIDE. (Has web and an app).
+                 3. NATIVE.  (specific: IOS, Android).
+
+Is mobile testing more difficult than web testing? yes. One of the challenges of Mobile App Testing is the variety of Hardware between devices. 
+Which are CPU, memory, and RAM. 
+The biggest challenge for a bank app will be security issues.
+
+
+Difference between app and web testing?
+Nature of the Application:
+
+App Testing: Refers to testing mobile applications, which are designed to run on specific mobile platforms such as iOS or Android. These apps are typically downloaded and installed from app stores.
+Web Testing: Refers to testing web applications, which are accessed through web browsers over the internet. Users do not need to download or install anything to access web applications.
+Platform and Device Compatibility:
+
+App Testing: Involves testing across various devices (phones and tablets) and operating systems (iOS, Android, etc.). This testing ensures that the app functions correctly on different devices and platforms.
+Web Testing: Focuses on ensuring compatibility with different web browsers (Chrome, Firefox, Safari, etc.) and operating systems (Windows, macOS, Linux, etc.). Since web applications run in browsers, compatibility testing across different browsers and platforms is crucial.
+User Interface:
+
+App Testing: Involves testing the user interface (UI) elements specific to mobile devices, such as touch gestures, screen orientation, and device-specific features like GPS or camera.
+Web Testing: Focuses on testing the UI elements of web pages, including layout, responsiveness (adaptability to different screen sizes), navigation, and usability across different browsers.
+Offline Capability:
+
+App Testing: Mobile apps may have offline capabilities, meaning they can function without an internet connection. Testing involves ensuring that the app behaves as expected both online and offline.
+Web Testing: Web applications typically require an internet connection to function. Testing focuses on ensuring uninterrupted performance under varying network conditions and handling of network errors gracefully.
+Installation and Updates:
+
+App Testing: Involves testing the installation process from app stores, including downloading, installation, and updates. Testing also covers compatibility with different versions of the operating system.
+Web Testing: Since web applications are accessed through browsers, there's no installation process. Testing primarily focuses on ensuring a smooth user experience during updates and compatibility with different browser versions.
+Security:
+
+App Testing: Involves testing for security vulnerabilities specific to mobile platforms, such as data encryption, secure storage, permissions management, and protection against malware and viruses.
+Web Testing: Testing includes security measures such as SSL/TLS encryption, protection against common web vulnerabilities like SQL injection and cross-site scripting (XSS), authentication mechanisms, and secure transmission of data over the internet.
+
+
+
+Tablet vs phone? screen size, battery life, not same phoning services...etc.
+
+Challenges?
+          1. Multiple platforms and devices.
+          2. Different UI design, as well as UX.
+          3. Multiple network devices.
+          4. Resource-starved devices.
+          5. Diverse users.
+          6. High feedback visibility.
+          7. Marketplace publishing approval.
+          8. Unavailable new devices.
+
+Mobile analytics data:
+Like: Statcounter. Safari. Edge. Firefox. 
