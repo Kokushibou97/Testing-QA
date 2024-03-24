@@ -1,3 +1,8 @@
 Is a software that is used by Agile teams. 
 Why Jira for testers? To report defects; static testing; Acceptance criteria; Verify requirements.
 
+We have three types of projects:
+                                1.Kanban.
+                                2.SCRUM.
+                                3.Bug/defect tracking.
+The word “issue” in Jira means anything that we will work on.
