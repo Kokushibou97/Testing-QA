@@ -1,0 +1,20 @@
+Trello provides a RESTful API that allows developers to interact with Trello boards, cards, lists, members, and more programmatically. The Trello API is well-documented and allows you to perform various actions such as creating boards, adding cards, moving cards between lists, and managing members.
+
+Here's a brief overview of some of the key endpoints and functionalities provided by the Trello API:
+
+Authentication: Trello API uses OAuth 1.0a for authentication. You need to obtain an API key and token to authenticate your requests.
+
+Boards: You can create, read, update, and delete boards using the API. This includes getting lists and cards associated with a board, as well as managing board settings.
+
+Lists: Manipulate lists within boards, such as creating, updating, reordering, and archiving lists.
+
+Cards: Perform actions on cards, such as creating, updating, moving, copying, archiving, and adding attachments or comments to cards.
+
+Members: Manage members of boards, including getting information about members, adding or removing members from a board, and updating member details.
+
+Labels: Create, update, and delete labels on boards or cards.
+
+Webhooks: Set up webhooks to receive notifications about specific events happening on boards or cards.
+
+Search: Search for boards, cards, or members based on various criteria.
+
