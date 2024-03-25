@@ -1,1 +1,19 @@
+For launching an application that could be used by users. Real users.
+How to ensure that real users won't have problems while using the app? Performance testing.
 
+Formal definition? Is time behavior (response to inputs), resource using (memory), the capacity of the system. All fo those are the features that performance testing
+is focusing on.
+
+              Types:
+                    1.Load testing.
+                    2.Stress testing.
+                    3.Spike testing.
+                    4.Scalability testing.
+                    5.Endurance testing.
+                    6.Concurrrency testing.
+                    7.Capacity testing.
+
+
+Load generation: approaches of load generation is suitable when there is frequent changes in the UI? APIs
+ approaches of load generation is suitable when we need to represent a small number of users? Users interface.
+ approaches of load generation is suitable when we need to simulate very large numbers of users in a repeatable and reliable manner? Communication protocols.
