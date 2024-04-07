@@ -1,0 +1,17 @@
+Or achetictural or the structure testing of the system.
+(Unit testing)
+
+Team cross functunality: The team measure their functons.
+In the case of this type of testing, the tester should be experienced with the code the system is wrote in.
+
+cover all the statements inside your code to get 100% statement coverage. How to achieve statement coverage?
+nº of statement cases/total nº of statements.
+The statement Coverage technique is not the best technique to be used on your code in White-Box testing.
+
+
+Técnicas:
+Decision coverage: Or branch coverage Is to test all decisions outcomes in the code to be tested. (Decision -> yes/no -> results) (if/else)
+Condition coverage: more detailed testing. In this type we test each condition in the code in true or false guess.
+Path coverage: The goal is to test all possible paths in the code.
+Modified condition decision coverage: A mix of the two types where we mix for safety, like planes systems.
+Loop coverage: focuses on testing the functionality of loops within a program.
