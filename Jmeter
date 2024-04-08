@@ -1,1 +1,39 @@
+Absolute response time: Is the total time from the instance a user clicks on a link until the response from the server is rendered completely.
+Perceived response time: Response time as perceived by the user.
+Rendering time: Time taken by the browser to parse and render the response received from the server.
+Network latency: Time taken by a data packet to be captured, transmitted, and processed through multiple devices, then recieved at its destination.
+Typically, anything at 100ms is acceptable for gaming. However, the 20ms to 40ms range is considered optimal.
+
+Throughput: Number os transactions per unit time, measured in transactions/second or bandwidth(bytes/second).
+Utilization: Ratio of throughput to maximum capacity. It is not desirable to operate above 80% utilization.
+Robustness: How well the application detects and handles various errores and exceptions (we use MTBF to measure robustness).
+
+Performance test enviroment: Hardware and Software used to conduct performance testing.
+Not advisable to be done in the production enviroment.
+
+Why we need a seperate test enviroment?
+The system might crash.
+the app response time might be degraded.
+The possibility of creating security holes.
+The database might include the tests input and output information.
+app log files and system log files may be filled up.
+Analytics might be influenced.
+
+Performance ENVIROMENT should be like the production enviroment.
+
+Serial execution of thread groups: ºYou can find this in Advanced Jmeterº
+How to use Jmeter.
+
+User Defined Variables: 
+Inside Jmeter.
+
+Action after sampler error:
+Inside Jmeter.
+
+The controllers:
+Jmeter.
+
+Loop controller:
+Jmeter
+
 
