@@ -1,1 +1,17 @@
+What are the component of a web page? CSS and HTML.
 
+Locators:
+ID: is one of the important locator for Selenium to find elements. The next code can be used: driver.findelement(By.id("Value"));
+    Not all elements have IDs. The ID might be auto-generated 
+NAME: is also one of the important locator for Selenium to find elements. The following code can be used: driver. findelement(By.name("Value"));
+     If some elements might have neither ID nor NAME, we can use other locators.
+for example: Class Name locator   We can use the following code:  driver. findelement(By.Class("from-control"));
+             We use this in case ID and NAME are located inside a class.
+             The compound classes are not allowed in class name locator
+Link text locator:  driver. findelement(By.linktext("Value"));
+
+How to find an element with Partial Textlink:
+How to find an element with TagName:
+How to locate and element using XPath: 
+How to locate and element using CSS Selector: 
+How to locate and element using Chropath: 
