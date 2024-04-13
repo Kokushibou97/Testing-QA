@@ -1,1 +1,12 @@
-
+Katalon Studio can be used for Testing API, web, mobile, and desktop apps.
+Katalon Studio is used to generate test cases, execute test cases, and analyze test cases.
+You can flexibly capture test objects by specifying several properties and locating methods using the spy web utility.
+test suite It is a group of test cases.
+generate new test case from Test cases -> new test case -> add 
+Scripts in Katalon Studio can be written in Groovy.
+We can add steps of a Test case using manual mode, script, and recording website actions.
+What is the class name that contains all keyword functions (used in script mode)? WebUI.
+A Test Suite in Katalon Studio contains one or more test cases.
+What is the function of listeners in Katalon Studio? functions to run before and after a test case, a before and after test suite.
+In Katalon Studio, Screenshots are NOT autosaved in a folder called (Screenshots), which is automatically created by the program in the project’s file.
+In what extension a test case report can be exported in Katalon Studio? HTML CSV AND PDF.
